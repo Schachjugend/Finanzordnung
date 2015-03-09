@@ -77,7 +77,7 @@
 ## § 5 Überschreiten von Zahlungsfristen
 
 1.  
-    Werden für Veranstaltungen, die von der DSJ organisiert und durchgeführt werden oder an denen sich die DSJ beteiligt, in den jeweiligen Ausschreibungen bzw. Einladungen Fristen oder Stichtage für die Zahlung von Teilnehmerbeiträgen gesetzt und werden diese nicht eingehalten, ist der Finanzreferent berechtigt einen Säumniszuschlag zu erheben. Der Säumniszuschlag beträgt 2% und richtet sich nach der Höhe der zu zahlenden Teilnehmerbeiträge. Bereits gezahlte Beiträge werden dabei berücksichtigt.
+    Werden für Veranstaltungen, die von der DSJ organisiert und durchgeführt werden oder an denen sich die DSJ beteiligt, in den jeweiligen Ausschreibungen bzw. Einladungen Fristen oder Stichtage für die Zahlung von Teilnehmerbeiträgen gesetzt und werden diese nicht eingehalten, ist der Finanzreferent berechtigt einen Säumniszuschlag zu erheben. Der Säumniszuschlag beträgt 10% aber max. 100 Euro und richtet sich nach der Höhe der zu zahlenden Teilnehmerbeiträge. Bereits gezahlte Beiträge werden dabei berücksichtigt.
 
 1.  
     Spieler und Mannschaften können von Veranstaltungen der DSJ ausgeschlossen werden, wenn die Fristen oder Stichtage für die Zahlung von Teilnehmerbeträgen nicht eingehalten wurden und vom Finanzreferenten erfolglos eine Nachfrist von 7 Tagen gesetzt wurde.
