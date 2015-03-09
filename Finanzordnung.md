@@ -2,34 +2,34 @@
 
 ## § 1 Ziele und Grundsätze
 
-1.
+1.  
     Es ist das Ziel dieser Finanzordnung, die zur Abwicklung aller Vorhaben der DSJ erforderlichen finanziellen Regelungen zu treffen.
 
-1.
+1.  
     Alle Mittel sind im Sinne des § 2 der Jugendordnung zu verwenden, wobei das Prinzip der Sparsamkeit zu beachten ist.
 
-1.
+1.  
     Geschäftsjahr ist das laufende Kalenderjahr.
 
 
 ## § 2 Etat
 
-1.
+1.  
     Der Finanzreferent erstellt spätestens zum Ende des laufenden Jahres einen Voranschlag für das folgende Jahr.
 
-1.
+1.  
     Terminvorschriften der Zuschussgeber sind bei der Erstellung des Voranschlages zu berücksichtigen.
 
-1.
+1.  
     Der Etat ist dem Vorstand zur Genehmigung und der Jugendversammlung zur Annahme vorzulegen.
 
-1.
+1.  
     Die Planzahlen des von der Jugendversammlung angenommenen Etats sind grundsätzlich verbindlich.
 
-1.
+1.  
     Soweit Deckung vorhanden ist, können jedoch ausgewiesene Etatposten durch Vorstandsbeschluss überschritten werden. Ebenso können ausgewiesene Etatposten durch Vorstandsbeschluss gekürzt bzw. für andere Zwecke herangezogen werden.
 
-1.
+1.  
     Ausgaben für kurzfristige Planungen, deren Aufnahme in den Etat nicht möglich war, müssen vom Vorstand beschlossen werden und bedürfen der Zustimmung des Finanzreferenten.
 
 
