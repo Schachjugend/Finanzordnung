@@ -1,0 +1,27 @@
+# Finanzordnung der Deutschen Schachjugend
+
+Dieses Git-Repository enthält die Finanzordnung der [Deutschen Schachjugend](http://deutsche-schachjugend.de) im [Markdown](http://daringfireball.net/projects/markdown/syntax)-Format. Aus diesem kann eine Ausgabe als [HTML](http://schachjugend.github.io/Finanzordnung/Finanzordnung.html) und [PDF](http://schachjugend.github.io/Finanzordnung/Finanzordnung.pdf) generiert werden.
+
+# Warum Git und Markdown?
+
+Dieses Git-Repository ist in Anlehnung an das [@bundesgit](https://github.com/bundestag/gesetze) entstanden. [Dort](https://github.com/bundestag/gesetze#warum-git) wird ganz gut geschildert, warum sich Git und Markdown für solch eine Ordnung anbieten.
+
+# Style Guide
+
+* Numerische Listen sind stets mit der Zahl `1.` zu führen.
+* Redaktionelle Hinweise werden kursiv dargestellt, d.h. in `*` eingeschlossen.
+
+# Änderungen
+
+Vorschläge für konkrete Änderungen werden als [Issues](https://github.com/Schachjugend/Finanzordnung/issues) bzw. [Pull Requests](https://github.com/Schachjugend/Finanzordnung/pulls) angelegt. Ehemalige Änderungsanträge mitsamt Begründungen lassen sich dort als geschlossene [Pull Requests](https://github.com/Schachjugend/Finanzordnung/pulls?state=closed) nachvollziehen.
+
+Nützliche Links:
+
+* Ausformulierte Änderungsvorschläge: [offen](https://github.com/Schachjugend/Finanzordnung/pulls?q=is%3Aopen+is%3Apr) und [bearbeitet](https://github.com/Schachjugend/Finanzordnung/pulls?q=is%3Apr+is%3Aclosed)
+* Änderungswünsche: [offen](https://github.com/Schachjugend/Finanzordnung/pulls?q=is%3Aopen) und [bearbeitet](https://github.com/Schachjugend/Finanzordnung/issues?q=is%3Aclosed)
+* [Versionsgeschichte](https://github.com/Schachjugend/Finanzordnung/commits/master/Finanzordnung.md)
+* [Versionsvergleich](https://github.com/Schachjugend/Finanzordnung/compare)
+
+# Weitere Formate
+
+Zum Generieren einer [HTML](http://schachjugend.github.io/Finanzordnung/Finanzordnung.html)- und [PDF](http://schachjugend.github.io/Finanzordnung/Finanzordnung.pdf)-Version aus der Markdown-Quelldatei steht eine eigene [Toolsammlung](https://github.com/Schachjugend/md-tools) zur Verfügung.
