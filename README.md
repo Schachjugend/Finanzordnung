@@ -1,6 +1,6 @@
 # Finanzordnung der Deutschen Schachjugend
 
-Dieses Git-Repository enthält die Finanzordnung der [Deutschen Schachjugend](http://deutsche-schachjugend.de) im [Markdown](http://daringfireball.net/projects/markdown/syntax)-Format. Aus diesem kann eine Ausgabe als [HTML](http://schachjugend.github.io/Finanzordnung/Finanzordnung.html) und [PDF](http://schachjugend.github.io/Finanzordnung/Finanzordnung.pdf) generiert werden.
+Dieses Git-Repository enthält die Finanzordnung der [Deutschen Schachjugend](http://deutsche-schachjugend.de) im [Markdown](http://daringfireball.net/projects/markdown/syntax)-Format.
 
 # Warum Git und Markdown?
 
@@ -22,6 +22,4 @@ Nützliche Links:
 * [Versionsgeschichte](https://github.com/Schachjugend/Finanzordnung/commits/master/Finanzordnung.md)
 * [Versionsvergleich](https://github.com/Schachjugend/Finanzordnung/compare)
 
-# Weitere Formate
 
-Zum Generieren einer [HTML](http://schachjugend.github.io/Finanzordnung/Finanzordnung.html)- und [PDF](http://schachjugend.github.io/Finanzordnung/Finanzordnung.pdf)-Version aus der Markdown-Quelldatei steht eine eigene [Toolsammlung](https://github.com/Schachjugend/md-tools) zur Verfügung.
